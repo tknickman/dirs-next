@@ -1,5 +1,7 @@
 # dirs-next
 
+![NPM Version](https://img.shields.io/npm/v/dirs-next)
+
 A (hasty) port of the [dirs-next Rust crate](https://github.com/xdg-rs/dirs/tree/master/dirs).
 
 ## Description
